@@ -27,7 +27,7 @@
         <tr>
             <td>Network Forensics</td>
             <td><a href="https://github.com/OpeDavid-SOC/CTF-Writeups/tree/main/CyberDefendersLabs/PacketDetective_Lab">PacketDetective</a></td>
-
+            <td><a href="https://twitter.com/SBousseaden">Samir Bousseaden</a></td>
         </tr>
  
     </tbody>
