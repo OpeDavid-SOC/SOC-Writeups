@@ -14,4 +14,22 @@
     </tbody>
 </table>
 
-
+<h4>Cyber Defenders</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Challenge</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Network Forensics</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/tomcattakeover">PacketDetective</a></td>
+            
+            <td><a href="https://twitter.com/SBousseaden">SBousseaden</a></td>
+        </tr>
+ 
+    </tbody>
+</table>
