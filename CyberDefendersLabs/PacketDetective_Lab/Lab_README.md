@@ -23,7 +23,7 @@
  - Located SMB protocol data from wireshark interface `statistics > protocol hierachy`
  
  **result**
- <img src='../lab_Snapshots/'1.SMB_bytes.png' />  
+ 
  ![IP Statistics](lab_Snapshots/1.SMB_bytes.png) 
  
  
@@ -35,8 +35,7 @@
  - Since the attacker has used SMB to setup request on the server and was able to bypass the authN protocols to find the username used: filtered through the packets that contains NTLM AuthN_signatures - `ntlmssp.auth.username`
  
  **result** 
-
- ![IP Statistics](lab_Snapshots/2.UsernameAuthN_via_SMB.png 
+ ![IP Statistics](lab_Snapshots/2.UsernameAuthN_via_SMB.png) 
  Answer: Administrator
 `Authentication method used was NTLM New Technology LAN Manager, is a set of Microsoft protocols that authenticate users and computers on a network`
 
