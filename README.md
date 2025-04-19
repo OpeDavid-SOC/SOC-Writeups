@@ -32,3 +32,16 @@
  
     </tbody>
 </table>
+
+<h4>Cyber Analyst Projects</h4>
+<table>
+    <thead>
+        <th>Capstone Scenarios</th>           
+    </thead>
+    <tbody>
+        <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis"></a>Network Analysis</td>
+        
+         <td> <a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/DigitalForensics"></a> Digital Forensics</td>
+        
+    </tbody>
+</table>
