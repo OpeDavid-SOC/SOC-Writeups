@@ -40,8 +40,7 @@
     </thead>
     <tbody>
     <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
-    
-    <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
+
         
         
     </tbody>
