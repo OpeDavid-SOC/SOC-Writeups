@@ -39,9 +39,9 @@
         <th>Capstone Scenarios</th>           
     </thead>
     <tbody>
-        <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis"></a>Network Analysis</td>
+        <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
         
-         <td> <a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/DigitalForensics"></a> Digital Forensics</td>
+         <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/DigitalForensics">Digital Forensics</a> </td>
         
     </tbody>
 </table>
