@@ -36,11 +36,11 @@
 <h4>Cyber Analyst Projects</h4>
 <table>
     <thead>
-        <th>Capstone Scenarios</th>           
+        Capstone Scenarios         
     </thead>
     <tbody>
-    <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
-    <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
+        <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
+        <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
         
         
     </tbody>
