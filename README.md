@@ -3,10 +3,10 @@
 <h4>Blue Team Labs</h4>
 <table>
     <thead>
-        <tr>
-            <th>Challenge</th>
-            <th>Completed Challenges</th>
-        </tr>
+    <tr>
+        <th>Challenge</th>
+        <th>Completed Challenges</th>
+    </tr>
     </thead>
     <tbody>
         <td>Scenerios</td>
@@ -24,10 +24,10 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Network Forensics</td>
-            <td><a href="https://github.com/OpeDavid-SOC/CTF-Writeups/tree/main/CyberDefendersLabs/PacketDetective_Lab">PacketDetective</a></td>
-            <td><a href="https://twitter.com/SBousseaden">Samir Bousseaden</a></td>
+    <tr>
+    <td>Network Forensics</td>
+    <td><a href="https://github.com/OpeDavid-SOC/CTF-Writeups/tree/main/CyberDefendersLabs/PacketDetective_Lab">PacketDetective</a></td>
+    <td><a href="https://twitter.com/SBousseaden">Samir Bousseaden</a></td>
         </tr>
  
     </tbody>
@@ -39,9 +39,9 @@
         <th>Capstone Scenarios</th>           
     </thead>
     <tbody>
-        <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
+    <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
+    <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis">Network Analysis</a></td>
         
-         <td><a href="https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/DigitalForensics">Digital Forensics</a> </td>
         
     </tbody>
 </table>
