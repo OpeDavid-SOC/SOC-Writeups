@@ -33,5 +33,7 @@
 
 > **Digital Forensics Summary**: Focuses on investigating compromised machines, recovering artifacts and analyzing memory dumps.
 
-> **Dark Web Operations**: Investigated threat actor activity and illicit data marketplaces using dark web monitoring techniques.
+> **Dark Web Operations**: Investigated threat actor activity and illicit data marketplaces using dark web monitoring techniques.    
+
+  
 
