@@ -29,6 +29,6 @@
 
 > **Network Analysis Summary**: A deep dive into identifying anomalies and threats from network traffic and analyzing logs as a SOC Analyst.
 
-> **Digital Forensics Summary**: Focuses on investigating compromised machines, recovering artifacts and analyzing memory dumps, a
+> **Digital Forensics Summary**: Focuses on investigating compromised machines, recovering artifacts and analyzing memory dumps.
 
 
