@@ -68,8 +68,7 @@ It looks like the user PJ is hosting an illegal party. What city is this taking 
 - PJ - gave a heads-up on where the hidden info can be found...so i looked up on the image itself (image size was more that 5mb - enough to know something is clearly hidden in the image), steghide could not finish the job - decided to use an online image decoder which did the job.
 ![Eventlog](lab_Snapshots/DW12_2.png) 
 ![Eventlog](lab_Snapshots/DW12.png) 
-![Eventlog](lab_Snapshots/DW13.png) 
-
+![Eventlog](lab_Snapshots/DW13.png)        
 
 
 ## Question 6
