@@ -62,10 +62,11 @@ A transaction log is mistakenly visible under the “Recent Transactions” sect
 
 
 ## Question 5
-It looks like the user PJ is hosting an illegal party. What city is this taking place and when? We could catch him there and shut down this entire operation. (Format: City, Month DD, YYYY)
+It looks like the user PJ is hosting an illegal party. What city is this taking place and when? We could catch him there and shut down this entire operation. (Format: City, Month DD, YYYY) - Cardiff, February 14, 2025.
 
 > Approach:
 - PJ - gave a heads-up on where the hidden info can be found...so i looked up on the image itself (image size was more that 5mb - enough to know something is clearly hidden in the image), steghide could not finish the job - decided to use an online image decoder which did the job.
+![Eventlog](lab_Snapshots/DW12_2.png) 
 ![Eventlog](lab_Snapshots/DW12.png) 
 ![Eventlog](lab_Snapshots/DW13.png) 
 
