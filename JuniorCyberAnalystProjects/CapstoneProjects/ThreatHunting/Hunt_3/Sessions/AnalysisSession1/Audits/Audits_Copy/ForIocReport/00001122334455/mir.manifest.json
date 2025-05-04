@@ -1,0 +1,31 @@
+{
+	"type": "audit_manifest",
+	"version": "1.0",
+	"audits": [
+		{
+			"id": "urn:uuid:46fa672e-03ad-4b22-8b08-a1713ce83afa",
+			"generator": "w32apifiles",
+			"generatorVersion": "31.28.1",
+			"results": [
+				{
+					"payload": "w32apifiles.urn_uuid_46fa672e-03ad-4b22-8b08-a1713ce83afa.xml",
+					"type": "application/xml",
+					"timestamps": [
+						{
+							"event": "Started",
+							"time": "2025-05-04T12:41:59Z",
+							"skew": "+PT0S",
+							"offset": 0
+						},
+						{
+							"event": "Finished",
+							"time": "2025-05-04T12:42:00Z",
+							"skew": "+PT0S",
+							"offset": 1080329
+						}
+					]
+				}
+			]
+		}
+	]
+}

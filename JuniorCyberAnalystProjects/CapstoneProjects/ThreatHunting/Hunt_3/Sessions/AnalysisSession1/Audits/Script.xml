@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<script xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="urn:uuid:3e4bc46a-2b0a-4d48-9398-6f9f08c030bc" chaining="implicit">
+  <commands>
+    <command xsi:type="ExecuteModuleCommand" id="urn:uuid:46fa672e-03ad-4b22-8b08-a1713ce83afa">
+      <module name="w32apifiles" version="1.4.36.0" />
+      <config xsi:type="ParameterListModuleConfig">
+        <parameters>
+          <param name="Path">
+            <value xsi:type="xsd:string">C:\Users\user\Desktop\ThreatHuntsIOCs\ThreatHunting\resource\TH_Challenge_Target-2\DaveS</value>
+          </param>
+          <param name="Regex" />
+          <param name="MD5">
+            <value xsi:type="xsd:boolean">true</value>
+          </param>
+          <param name="SHA1">
+            <value xsi:type="xsd:boolean">true</value>
+          </param>
+          <param name="SHA256">
+            <value xsi:type="xsd:boolean">true</value>
+          </param>
+          <param name="Preserve Times">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Analyze Entropy">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Enumerate Imports">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Enumerate Exports">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Analyze File Anomalies">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Scan Entry Point Distance">
+            <value xsi:type="xsd:int">8</value>
+          </param>
+          <param name="Verify Digital Signatures">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Minimum Sizes" />
+          <param name="Maximum Sizes" />
+          <param name="Filter MD5" />
+          <param name="Filter SHA1" />
+          <param name="Filter SHA256" />
+          <param name="Content Regex" />
+          <param name="AND Operator">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Strings">
+            <value xsi:type="xsd:boolean">true</value>
+          </param>
+          <param name="Include Files">
+            <value xsi:type="xsd:boolean">true</value>
+          </param>
+          <param name="Include Directories">
+            <value xsi:type="xsd:boolean">true</value>
+          </param>
+          <param name="Get Resources">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Get Resource Data">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Get Version Info">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Exclude Resource Types" />
+          <param name="Prevent Hibernation">
+            <value xsi:type="xsd:boolean">false</value>
+          </param>
+          <param name="Depth">
+            <value xsi:type="xsd:int">6</value>
+          </param>
+          <param name="shortest matched string">
+            <value xsi:type="xsd:int">8</value>
+          </param>
+        </parameters>
+      </config>
+      <filters />
+    </command>
+  </commands>
+</script>

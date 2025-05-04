@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ioc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="dcc572d8-5258-4fac-a22e-23c3d4c20ff0" last-modified="2025-05-04T12:39:24" xmlns="http://schemas.mandiant.com/2010/ioc">
+  <short_description>DaveSystem</short_description>
+  <description>hunting threats with IOCs.
+Aim to hunt for any malicious file with the below parameters on Dave_system.
+With more IOCs.</description>
+  <authored_by>Ope</authored_by>
+  <authored_date>2025-05-04T12:29:17</authored_date>
+  <links />
+  <definition>
+    <Indicator operator="OR" id="f128ce34-b141-4edd-a766-118217661854">
+      <IndicatorItem id="faf71d3a-c296-4adf-89eb-637682d01d2d" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">240387329dee4f03f98a89a2feff9bf30dcba61fcf614cdac24129da54442762</Content>
+      </IndicatorItem>
+      <IndicatorItem id="a57d8ce0-7454-46e7-a922-9b47f10fef94" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">37ea273266aa2d28430194fca27849170d609d338abc9c6c43c4e6be1bcf51f9</Content>
+      </IndicatorItem>
+      <IndicatorItem id="100136e5-8107-44da-b5c7-8b2664145b2c" condition="contains">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir" />
+        <Content type="string">#H3XGROUPWASHERE</Content>
+      </IndicatorItem>
+      <IndicatorItem id="c993cc08-1302-4922-82e9-c1ce51a19cb7" condition="contains">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir" />
+        <Content type="string">390808010001Z0U1 </Content>
+      </IndicatorItem>
+      <IndicatorItem id="345a6280-c3cf-4afe-a15e-7f09fba4d540" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir" />
+        <Content type="md5">0c4374d72e166f15acdfe44e9398d026</Content>
+      </IndicatorItem>
+      <IndicatorItem id="8bef36ae-db5f-44fc-8afe-cae660634242" condition="is">
+        <Context document="FileItem" search="FileItem/Md5sum" type="mir" />
+        <Content type="md5">b315c590c3ad691604597ea41f8dd84e</Content>
+      </IndicatorItem>
+      <IndicatorItem id="7f5fb87c-f274-4525-ae10-998b06c260c2" condition="is">
+        <Context document="FileItem" search="FileItem/Sha1sum" type="mir" />
+        <Content type="string">f8ac123e604137654759f2fbc4c5957d5881d3d1</Content>
+      </IndicatorItem>
+      <IndicatorItem id="463bad9a-3e0e-4d9b-ac81-391d0b5656c5" condition="is">
+        <Context document="FileItem" search="FileItem/Sha1sum" type="mir" />
+        <Content type="string">6d15e7f0bb54df5b27a093f20186773ab0af7707</Content>
+      </IndicatorItem>
+    </Indicator>
+  </definition>
+</ioc>

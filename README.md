@@ -27,13 +27,17 @@
 | Network Analysis   | [Network Analysis](https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/NetworkAnalysis)       |
 | Digital Forensics  | [Digital Forensics](https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/DigitalForensics)     |
 | Dark Web Operations 🕶️ | [Dark Web Investigation](https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/DarkWebOps) |
+| Threat Hunting 🕶️ | [Threat Hunt](https://github.com/OpeDavid-SOC/SOC-Writeups/tree/main/JuniorCyberAnalystProjects/CapstoneProjects/ThreatHunting) |
 
 
 > **Network Analysis Summary**: A deep dive into identifying anomalies and threats from network traffic and analyzing logs as a SOC Analyst.
 
 > **Digital Forensics Summary**: Focuses on investigating compromised machines, recovering artifacts and analyzing memory dumps.
 
-> **Dark Web Operations**: Investigated threat actor activity and illicit data marketplaces using dark web monitoring techniques.    
+> **Dark Web Operations**: Investigated threat actor activity and illicit data marketplaces using dark web monitoring techniques. 
+
+> **Threat Hunting**: Conducted a targeted threat hunt using Mandiant IOCe and Redline to identify malware presence on a remote system disk image. Extracted and deployed custom IOCs from malware samples, successfully detecting four malicious artifacts.
+
 
   
 

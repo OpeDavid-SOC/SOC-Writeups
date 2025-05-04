@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ioc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="8b14d217-1b83-4a9e-8b2d-648ea8013bc5" last-modified="2025-05-04T11:46:00" xmlns="http://schemas.mandiant.com/2010/ioc">
+  <short_description>Dave_system</short_description>
+  <description>Aim to hunt for any malicious file with the below parameters on Dave_system.</description>
+  <authored_by>Ope</authored_by>
+  <authored_date>2025-05-04T11:43:35</authored_date>
+  <links />
+  <definition>
+    <Indicator operator="OR" id="0e30a91d-3846-407e-a5c9-b8992c4dd6a5">
+      <IndicatorItem id="5660a0cd-9f57-46de-94db-3dda891a2f2d" condition="contains">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir" />
+        <Content type="string">390808010001Z0U1 </Content>
+      </IndicatorItem>
+      <IndicatorItem id="f955394f-94f4-45d7-b89c-660e1d205a01" condition="contains">
+        <Context document="FileItem" search="FileItem/StringList/string" type="mir" />
+        <Content type="string">#H3XGROUPWASHERE</Content>
+      </IndicatorItem>
+    </Indicator>
+  </definition>
+</ioc>

@@ -1,0 +1,19 @@
+Hey Hunter, Matt from the Threat Intel Team here. Got a few things that might help you.
+
+> The two samples are in the folder "CTI Team - Malware Samples" on the Desktop. Grab your
+IOCs from them.
+
+> It goes without saying, but don't open the malware. Why? Because it's malware.
+
+> We've saved you some work and identified the following strings that are present in
+the samples, use them as IOCs (but make sure Redline is accepting Strings, see the
+brief to enable them); 390808010001Z0U1 , #H3XGROUPWASHERE
+
+> We believe the User "DaveS" has potentially downloaded both samples, so limit Redline
+to only search directories associated with this user, otherwise you'll miss your lunch
+break ;)
+
+> Good luck! Sorry to put this on you, we're just so busy today.
+
+
+// Matt - Threat Intelligence Analyst
