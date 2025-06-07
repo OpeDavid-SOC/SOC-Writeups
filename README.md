@@ -15,7 +15,7 @@
 | Category           | Challenge                                                                                                                                     | Author                                         |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | Network Forensics  | [PacketDetective](https://github.com/OpeDavid-SOC/CTF-Writeups/tree/main/CyberDefendersLabs/PacketDetective_Lab)                            | [Samir Bousseaden](https://twitter.com/SBousseaden) |
-| Network Forensics  | [WebStrike](https://github.com/OpeDavid-SOC/CTF-Writeups/tree/main/CyberDefendersLabs/PacketDetective_Lab)                            | [CyberDefenders](https://cyberdefenders.org/) |
+| Network Forensics  | [WebStrike](https://github.com/OpeDavid-SOC/CTF-Writeups/tree/main/CyberDefendersLabs/WebStrike_Lab)                            | [CyberDefenders](https://cyberdefenders.org/) |
 
 > **Summary**: This challenge involves analyzing packet capture (PCAP) files to uncover attacker activity on a corporate network, extract credentials, and trace their movement.
 
